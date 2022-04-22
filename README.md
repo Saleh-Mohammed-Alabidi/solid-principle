@@ -19,6 +19,10 @@ SOLID is an acronym for 5 important design principles when doing OOP (Object Ori
 - I - Interface Segregation Principle (ISP)
 - D - Dependency Inversion Principle (DIP)
 
+![download](https://user-images.githubusercontent.com/104224613/164779760-41c2577a-932c-4b7e-8646-08f855be127f.jpg)
+
+
+
 # Single Responsibility Principle
 
 A class should have one, and only one, reason to change.
