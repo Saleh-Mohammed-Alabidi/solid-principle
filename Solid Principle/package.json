@@ -1,0 +1,24 @@
+{
+  "name": "solid-principle",
+  "version": "1.0.0",
+  "description": "SOLID- Single Responsibility Principal in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --exit-child DIP/GoodDesign/index.ts",
+    "start": "ts-node DIP/GoodDesign/index.ts"
+  },
+  "keywords": [
+    "SOLID-",
+    "Single",
+    "Responsibility",
+    "Principal"
+  ],
+  "author": "Saleh Mohammed Saleh Alabidi",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.24",
+    "ts-node": "^10.7.0",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.3"
+  }
+}
